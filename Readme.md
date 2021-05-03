@@ -20,7 +20,7 @@ This projects aims to create a Cassandra database schema and a Python-based ETL 
 
 ## Project 3: Data Warehouse with Redshift
 
-This project aims to create a Data Warehouse on AWS Redshift, and build an ETL pipeline to extract and transform data stored in JSOPN format in S3 buckets and move the data to Warehouse hosted on Redshift. In this project, we need to:
+This project aims to create a Data Warehouse on AWS Redshift, and build an ETL pipeline to extract and transform data stored in JSON format in S3 buckets and move the data to Warehouse hosted on Redshift. In this project, we need to:
 
 - Create Data Warehouse on AWS Redshift and storage service on S3
 
