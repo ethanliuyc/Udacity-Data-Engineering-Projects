@@ -22,9 +22,9 @@ In the DAG, `default parameters` are based on these guidelines:
 - Catchup is turned off
 - Do not send email on retry
 
-In addition,  task dependencies have been configured follows the flow shown in the image below.
+In addition, task dependencies have been configured follows the flow shown in the image below.
 
-![](C:\Users\Yuchen%20Liu\AppData\Roaming\marktext\images\2021-04-30-22-44-38-image.png)
+![](Airflow-Diagram.png)
 
 #### Operators
 
@@ -61,7 +61,7 @@ To ensure the Airflow can connect to the necessary S3 and Redshift services. Two
 - **Login**: Enter your **Access key ID** from the IAM User credentials.
 - **Password**: Enter your **Secret access key** from the IAM User credentials.
 
-![connection-aws-credentials.png](D:\Udacity\Project%204%20Data%20Pipeline\connection-aws-credentials.png)
+![connection-aws-credentials.png](connection-aws-credentials.png)
 
 ###### Redshift Cluster
 
@@ -73,7 +73,7 @@ To ensure the Airflow can connect to the necessary S3 and Redshift services. Two
 - **Password**: Enter the password you created when launching your Redshift cluster.
 - **Port**: Enter `5439`.
 
-![connection-redshift.png](D:\Udacity\Project%204%20Data%20Pipeline\connection-redshift.png)
+![connection-redshift.png](connection-redshift.png)
 
 ---
 
@@ -112,7 +112,7 @@ Because the key names of log data json files might be different from the columns
 
 #### Database Schema Diagram
 
-![Database schema diagram](D:\Udacity\Project%202\database_schema_diagram.png)
+![Database schema diagram](database_schema_diagram.png)
 
 #### Fact Table
 
