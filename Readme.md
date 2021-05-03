@@ -6,6 +6,7 @@
 
 This projects aims to create a Postgres database schema and a Python-based ETL pipeline. allowing the data to be queried and analyzed easily. A startup  wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The current data resides in a direcotry of JSON logs on user activity and dda directory with JSON metadata on songs in their app.
 
+
 ## Project 2: Data Modeling with Postgres
 
 This projects aims to create a Cassandra database schema and a Python-based ETL pipeline. In this project, we need to 
@@ -15,6 +16,7 @@ This projects aims to create a Cassandra database schema and a Python-based ETL 
 - Process a set of CSV files to create the data file that will be used for Apache Casssandra tables
 
 - Insert data into Apache Cassandra tables.
+
 
 ## Project 3: Data Warehouse with Redshift
 
@@ -26,6 +28,7 @@ This project aims to create a Data Warehouse on AWS Redshift, and build an ETL p
 
 - Process data from staging tables into analytics tables on Redshift
 
+
 ## Project 4: Data Lake with Spark and EMR
 
 This project aims to build a Data Lake on AWS cloud using Spark and AWS EMR cluster. In this project, we need to: 
@@ -33,6 +36,7 @@ This project aims to build a Data Lake on AWS cloud using Spark and AWS EMR clus
 - Write Spark scripts to to load data from S3, process the data into analytics tables
 
 - Deploy this Spark process on a cluster using AWS EMR
+
 
 ## Project 5: Data Pipeline using Apache Airflow
 
