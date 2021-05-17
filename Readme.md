@@ -4,7 +4,7 @@
 
 ## Project 1: Data Modeling with Postgres
 
-This projects aims to create a Postgres database schema and a Python-based ETL pipeline. allowing the data to be queried and analyzed easily. A startup  wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The current data resides in a direcotry of JSON logs on user activity and dda directory with JSON metadata on songs in their app.
+This projects aims to create a Postgres database schema and a Python-based ETL pipeline. allowing the data to be queried and analyzed easily. A startup wants to analyze the data they've been collecting on songs and user activity on their new music streaming app.
 
 
 ## Project 2: Data Modeling with Postgres
